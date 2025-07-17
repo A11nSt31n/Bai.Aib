@@ -4,7 +4,7 @@ Tagline: Goodbye shame, hello hope. A tech-enabled bridge between repentance, co
 ## The Problem
 While existing platforms like @mysafespace.sg provide timely one-on-one Islamic advice, there’s often no safe structure for follow-up, accountability, or emotional continuity — especially for those struggling with persistent sins or addictions.
 
-Your teacher’s insight is profound: the ummah needs continuous, compassionate care, but without compromising on the Islamic principle of satr (concealment of aib/faults).
+The ummah needs continuous, compassionate care, but without compromising on the Islamic principle of satr (concealment of aib/faults).
 
 ## The Solution: Bai Aib
 A confidential digital ecosystem where users:
